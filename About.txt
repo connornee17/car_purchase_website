@@ -1,0 +1,25 @@
+Index.php - home page
+
+Creditcard.js - validates credit card number input
+
+enquire.php - form that sends enquiry to server
+
+orders_add.php - form that adds new order to mysql table
+
+orders_display.php - displays current orders in mysql table
+
+order_search.php - form that searches for orders in mysql table
+
+part2.js - validates various user inputs from form
+
+Payment.js - validates various user inputs from form
+
+payment.php - payment method form for user
+
+process_oder.php - processes order made by user
+
+product.php - lists the products that are available on the website
+
+settings.php - mysql credentials to login to database
+
+manager.php - webpage for management/admin to edit/change existing customer orders
